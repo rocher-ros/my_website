@@ -10,31 +10,37 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biogeochemistry",
+    "Limnology",
+    "Self-organisation",
+    "Complex Systems",
+    "Fractals"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Biogeochemistry"
+  institution = "Umeå University, Sweden"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.S. in Statistical Modelling"
+  institution = "Autonomous University of Barcelona, Spain"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. in Environmental Sciences"
+  institution = "Barcelona University, Spain"
+  year = 2013
  
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I grew up in a small mountain valley in Catalonia, Spain, and from my village I could see how the major glacier of the Pyrenees, grand and snowy white during the whole summer, shrank and became grey, year after year. Then I became highly interested in biogeochemical cycles and global change caused by humans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I studied Environmental Sciences in Barcelona university. Then I had some knowledge about pressing environmental issues but I felt I lacked the tools. Therefore after graduating I went to the Mathematics department of the Autonomous Univiersity in Barcelona, and did an M.S in Modelling for Science, specialized in Statistical modelling and Complex Systems. My master thesis was about Multifractal patterns in boreal forests and how they mediate the response to fire dynamics.
+
+My current research is about byophisical controls on CO2 evasion from inland waters. I use fine scale measurements of landscape properties, together with temporal series, to separate the role of physics in gas evasion from metabolic processes that affect the Carbon dynamics in the system.
+
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerard Rocher-Ros on Gerard Rocher-Ros</title>
+    <link>/</link>
+    <description>Recent content in Gerard Rocher-Ros on Gerard Rocher-Ros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calculating discharge using the salt slug method: A Shiny App</title>
+      <link>/tutorial/discharge_shiny/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/discharge_shiny/</guid>
+      <description>&lt;p&gt;Many stream ecologists/biogeochemists use the salt slug method to estimate discharge in streams.&lt;br /&gt;
+I adapted some code to calculate discharge in a stream using a slug injection of salt, so it is easy to input few parameters. It is written as a Shiny app in Rstudio, you can find the code to use it yourself &lt;a href=&#34;https://github.com/rocher-ros/dischargeApp_shiny/wiki&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Discharge.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A screenshot of an older version&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating channel slope globally in rivers</title>
+      <link>/tutorial/slopes/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/slopes/</guid>
+      <description>&lt;p&gt;Estimating the channel slope for the sites in a global database. Currently digital elevation models are largely useful in topographic studies, but its sources are often differnt among countries, and is hard to use globally at a high resolution. Here I did an R script to estimate channel slope from rivers in any part of the globe.
+For each site, we downloaded the DEM covering each site hosted in the Amazon Web Services (&lt;a href=&#34;https://registry.opendata.aws/terrain-tiles/&#34; target=&#34;_blank&#34;&gt;https://registry.opendata.aws/terrain-tiles/&lt;/a&gt;), with a pixel resolution ranging from 9-19 m, depending on the source. For each site within the database (cross) we extracted the elevation of all locations around 500 m of the site (black dots). By finding the location with the lowest elevation (red dot), we assumed that it corresponds to the stream channel downstream. And calculated the slope as the elevation difference divided by the distance. The code can be found in &lt;a href=&#34;https://github.com/rocher-ros/global_slope/wiki&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/slope.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating k with the nigh-time regression method in streams</title>
+      <link>/tutorial/nighttime/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/nighttime/</guid>
+      <description>&lt;p&gt;The night time regression is a method used to calculate the gas transfer coefficient in streams. The theory is that once photosynthesis ceases during the day, the oxygen concentration rises with a rate that is proportional to the reareation coefficient. Then, performing a linear regression between the oxygen deficit and the rate of change of oxygen as independent variable, the slope of the regression is equal to the reareation coefficient. If you have good diel curves of oxygen and need some kind of estimates of k, have a look!! See the article &amp;ldquo;Primary production in Flowing waters&amp;rdquo; by Howard T. Odum for further details and a full theory. The code is available &lt;a href=&#34;https://github.com/rocher-ros/nighttime_regression_multiple/wiki&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/NTR_example.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Persistent nitrogen limitation of stream biofilm communities along climate gradients in the Arctic</title>
+      <link>/publication/nutrients_gcb2018/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nutrients_gcb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large lakes dominate CO2 evasion from lakes in an arctic catchment</title>
+      <link>/publication/lakes_grl2017/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lakes_grl2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
