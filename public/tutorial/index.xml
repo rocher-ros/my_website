@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Gerard Rocher-Ros</title>
+    <link>/tutorial/</link>
+    <description>Recent content in Overview on Gerard Rocher-Ros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calculating discharge using the salt slug method: A Shiny App</title>
+      <link>/tutorial/discharge_shiny/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/discharge_shiny/</guid>
+      <description>Many stream ecologists/biogeochemists use the salt slug method to estimate discharge in streams.
+I adapted some code to calculate discharge in a stream using a slug injection of salt, so it is easy to input few parameters. It is written as a Shiny app in Rstudio, you can find the code to use it yourself here.
+ A screenshot of an older version   </description>
+    </item>
+    
+    <item>
+      <title>Estimating channel slope globally in rivers</title>
+      <link>/tutorial/slopes/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/slopes/</guid>
+      <description>Estimating the channel slope for the sites in a global database. Currently digital elevation models are largely useful in topographic studies, but its sources are often differnt among countries, and is hard to use globally at a high resolution. Here I did an R script to estimate channel slope from rivers in any part of the globe. For each site, we downloaded the DEM covering each site hosted in the Amazon Web Services (https://registry.</description>
+    </item>
+    
+    <item>
+      <title>Estimating k with the nigh-time regression method in streams</title>
+      <link>/tutorial/nighttime/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/nighttime/</guid>
+      <description>The night time regression is a method used to calculate the gas transfer coefficient in streams. The theory is that once photosynthesis ceases during the day, the oxygen concentration rises with a rate that is proportional to the reareation coefficient. Then, performing a linear regression between the oxygen deficit and the rate of change of oxygen as independent variable, the slope of the regression is equal to the reareation coefficient. If you have good diel curves of oxygen and need some kind of estimates of k, have a look!</description>
+    </item>
+    
+  </channel>
+</rss>
