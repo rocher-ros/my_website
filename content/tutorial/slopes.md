@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Estimating river slope globally"
 [menu.tutorial]
-  parent = ""
+  parent = "Small R projects"
   weight = 3
 +++
 Estimating the channel slope for the sites in a global database. Currently digital elevation models are largely useful in topographic studies, but its sources are often differnt among countries, and is hard to use globally at a high resolution. Here I did an R script to estimate channel slope from rivers in any part of the globe.
