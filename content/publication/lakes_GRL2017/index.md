@@ -53,7 +53,7 @@ url_source = "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017GL076146"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Sup. Materials", url = "content/publication/lakes_GRL2017/SI_LakesTorne_2017.pdf"}]
+url_custom = [{name = "Sup. Materials", url = "SI_LakesTorne_2017.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1002/2017GL076146"
