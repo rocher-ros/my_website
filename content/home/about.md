@@ -41,6 +41,6 @@ I grew up in a small mountain valley in Catalonia, Spain, and from my village I 
 
 I studied Environmental Sciences in Barcelona university. Then I had some knowledge about pressing environmental issues but I felt I lacked the tools. Therefore after graduating I went to the Mathematics department of the Autonomous Univiersity in Barcelona, and did an M.S in Modelling for Science, specialized in Statistical modelling and Complex Systems. My master thesis was about Multifractal patterns in boreal forests and how they mediate the response to fire dynamics.
 
-My current research is about byophisical controls on CO~2~ evasion from inland waters. I use fine scale measurements of landscape properties, together with temporal series, to separate the role of physics in gas evasion from metabolic processes that affect the Carbon dynamics in the system.
+My current research is about byophisical controls on CO2 evasion from inland waters. I use fine scale measurements of landscape properties, together with temporal series, to separate the role of physics in gas evasion from metabolic processes that affect the Carbon dynamics in the system.
 
 
