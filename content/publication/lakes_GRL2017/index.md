@@ -56,7 +56,7 @@ url_source = "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017GL076146"
 url_custom = [{name = "Journal Link", url = "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017GL076146"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1002/2017GL076146"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
