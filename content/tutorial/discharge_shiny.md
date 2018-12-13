@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Discharge Shiny App"
 [menu.tutorial]
-  parent = "jjj"
+  parent = "Small R projects"
   weight = 2
 +++
 
