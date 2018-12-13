@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Night-time regression"
 [menu.tutorial]
-  parent = ""
+  parent = "Small R projects"
   weight = 3
 +++
 
