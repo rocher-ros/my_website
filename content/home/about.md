@@ -37,7 +37,7 @@ weight = 5
 
 # About me
 
-I grew up in a small mountain valley in Catalonia, Spain, and from my village I could see how the major glacier of the Pyrenees, grand and snowy white during the whole summer, shrank and became grey, year after year. Then I became highly interested in biogeochemical cycles and global change caused by humans.
+I grew up in a small mountain valley in Catalonia, Spain, and from my village I could see how the major glacier of the Pyrenees, grand and snowy white when I was a kid, shrank and became grey as I got older. Then I became highly interested in biogeochemical cycles and global change caused by humans.
 
 I studied Environmental Sciences in Barcelona university. Then I had some knowledge about pressing environmental issues but I felt I lacked the tools. Therefore after graduating I went to the Mathematics department of the Autonomous Univiersity in Barcelona, and did an M.S in Modelling for Science, specialized in Statistical modelling and Complex Systems. [My master thesis was about Multifractal patterns in boreal forests](/static/files/Rocher-Ros_2014_The multifractal structure of ecosystems implications for the response of forest fires to environmental conditions.pdf) and how they mediate the response to fire dynamics.
 
