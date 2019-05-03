@@ -1,5 +1,5 @@
 +++
-title = "Landscape process domains drive patterns of CO<sub>2</sub> evasion from river networks"
+title = "Landscape process domains drive patterns of CO2 evasion from river networks"
 date = 2017-12-11T00:00:00
 draft = false
 
@@ -23,7 +23,7 @@ publication_short = "In *Limnology and Oceanography: Letters*"
 
 # Abstract and optional shortened version.
 abstract = "CO<sub>2</sub> evasion from river networks is an important flux in the global carbon cycle, yet global estimates are largely unconstrained. This uncertainty reflects the challenge of understanding landscape patterns of the two underlying drivers of CO<sub>2</sub> evasion from streams: the concentration of CO<sub>2</sub> in water, and the turbulent flows that promote gas transfer to the atmosphere. Here we show that, while transfer rates regulate where gas losses can occur in streams, it is the CO<sub>2</sub> concentration in the water that ultimately controls variation in the magnitude of evasion. Landscape topography emerges as an overarching driver that dictates the spatial arrangement of these two controls. Recognizing these fine scale spatial patterns is critical for future global upscaling of CO<sub>2</sub> evasion from river networks."
-abstract_short = "CO<sub>2</sub> evasion from river networks is an important flux in the global carbon cycle, yet global estimates are largely unconstrained. This uncertainty reflects the challenge of understanding landscape patterns of the two underlying drivers of CO<sub>2</sub> evasion from streams: the concentration of CO<sub>2</sub> in water, and the turbulent flows that promote gas transfer to the atmosphere. Here we show that, while transfer rates regulate where gas losses can occur in streams, it is the CO<sub>2</sub> concentration in the water that ultimately controls variation in the magnitude of evasion. Landscape topography emerges as an overarching driver that dictates the spatial arrangement of these two controls. Recognizing these fine scale spatial patterns is critical for future global upscaling of CO<sub>2</sub> evasion from river networks."
+abstract_short = "Catchment topography shapes network patterns of CO2 evasion by creating hydrologically linked ‘domains’ characterized by high water-atmosphere exchange and/or strong soil-stream connection. This template generates spatial variability in the drivers of CO2 evasion that can strongly bias regional and global estimates. "
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -53,10 +53,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Sup. Materials", url = "SI_LakesTorne_2017.pdf"}]
+url_custom = [{name = "Sup. Materials", url = "SM_RocherRos_2019.pdf"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1002/2017GL076146"
+doi = "10.1002/lol2.10108"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -68,7 +68,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Lake Torneträsk on calm day in August. Picture: Ive van Krunkelsven"
+  caption = "Landscape process domains shaping CO2 concentration and evasion rates in streams"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
