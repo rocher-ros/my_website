@@ -1,6 +1,6 @@
 +++
 title = "Landscape process domains drive patterns of CO2 evasion from river networks"
-date = 2017-12-11T00:00:00
+date = 2019-05-11T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
