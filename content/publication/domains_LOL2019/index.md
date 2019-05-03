@@ -64,7 +64,6 @@ math = true
 
 #{{< figure src="landscape_domains.jpg" title="Landscape process domains shaping CO2 concentration and evasion rates in streams" >}}
 
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
