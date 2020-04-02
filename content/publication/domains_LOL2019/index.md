@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Limnology and Oceanography: Letters*, ASLO"
-publication_short = "In press: *Limnology and Oceanography: Letters*"
+publication_short = "*Limnology and Oceanography: Letters*"
 
 # Abstract and optional shortened version.
 abstract = "CO<sub>2</sub> evasion from river networks is an important flux in the global carbon cycle, yet global estimates are largely unconstrained. This uncertainty reflects the challenge of understanding landscape patterns of the two underlying drivers of CO<sub>2</sub> evasion from streams: the concentration of CO<sub>2</sub> in water, and the turbulent flows that promote gas transfer to the atmosphere. Here we show that, while transfer rates regulate where gas losses can occur in streams, it is the CO<sub>2</sub> concentration in the water that ultimately controls variation in the magnitude of evasion. Landscape topography emerges as an overarching driver that dictates the spatial arrangement of these two controls. Recognizing these fine scale spatial patterns is critical for future global upscaling of CO<sub>2</sub> evasion from river networks."

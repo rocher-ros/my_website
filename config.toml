@@ -285,7 +285,7 @@ enableGitInfo = false
    [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv1.pdf"
+     link = "files/CV_GRR.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -314,7 +314,7 @@ enableGitInfo = false
   name = "Tutorials"
   url = "/tutorial/"
   weight = 6
-  
+
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -329,7 +329,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/cv1.pdf"
+    url = "files/CV_GRR.pdf"
     weight = 3
 
 # Search.
