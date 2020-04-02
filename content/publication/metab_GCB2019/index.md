@@ -1,6 +1,6 @@
 +++
 title = "Stream metabolism controls diel patterns and evasion of CO2 in Arctic streams"
-date = 2019-04-11T00:00:00
+date = 2019-10-11T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
