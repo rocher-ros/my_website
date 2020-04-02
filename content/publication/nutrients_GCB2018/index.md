@@ -31,7 +31,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -49,11 +49,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14117"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Link", url = "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14117"}]
+#url_custom = [{name = "Journal Link", url = "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14117"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1111/gcb.14117"
@@ -65,7 +65,7 @@ math = true
 
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""

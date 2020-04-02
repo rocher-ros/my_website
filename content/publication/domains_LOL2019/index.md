@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -44,8 +44,8 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/rocher-ros/co2_domains_publication"
+url_dataset = "https://snd.gu.se/sv/catalogue/study/snd1077/001"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -65,7 +65,7 @@ math = true
 #{{< figure src="landscape_domains.jpg" title="Landscape process domains shaping CO2 concentration and evasion rates in streams" >}}
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Landscape process domains shaping CO2 concentration and evasion rates in streams"
